@@ -1,0 +1,6 @@
+Test/
+tmp/
+.csv
+.xlsx
+_pycache_
+.idea/
